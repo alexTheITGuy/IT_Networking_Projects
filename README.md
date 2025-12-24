@@ -1,6 +1,5 @@
 # Secure_IT_Network
-A packet tracer project to learn about Border Gateway Protocol (BGP)
-
+A packet tracer project to learn about Secure Networks
 Fiance Branch Office Info
   WiFi Logon
     SSID: Finance Employees
