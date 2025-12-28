@@ -1,7 +1,7 @@
 # IT_Networking_Projects
 Packet Tracer Files to Illustrate IT Networking Concepts 
 
-#Sub Interfaces and VLANs
+#Sub_Interfaces_and_VLANs
 Router 1 Config
 Router#show run
 Building configuration...
